@@ -1,0 +1,67 @@
+﻿body, html {
+    height: 100%;
+    background: url(Images/home.jpg) no-repeat center center fixed; /*Caminho para a imagem de fundo*/
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+/* Position do formulário numa determinada zona da página*/
+.bg-form {
+    background-color: rgb(0,0,0); /* cor de fundo do formulário */
+    background-color: rgba(0,0,0, 0.4); /* opacidade da cor de fundo */
+    color: white; /*Cor da letra*/
+    font-weight: bold; /*Tipo de letra*/
+    /*border: 0px solid #f1f1f1;*/ /*Border do formulário*/
+    /*position: absolute;*/ /*posiçao absoluta do formulário,ou sej,a posiciona 
+        o formulário em relaçao à página toda e nao relativamente ao componente pai */
+    /*top: 50%;*/ /*Percentagem de distancia a partir do topo da página*/
+    /*left: 0%;*/ /*Percentagem de distancia a partir do lado esquerdo da página*/
+    /*transform: translate(25%, 25%);*/ /*Psiciona o formulário ao centro*/
+    /*margin-left:2.5%;
+    margin-right:2.5%;*/
+    margin-top:5%;
+    margin-bottom:20%;
+    margin-left:0%;
+    width: 100%;
+    height: 80%;
+    padding: 10px;
+    text-align: left;
+    overflow: auto; /*Pemite que a formulário tenha scrool quando os compomentes deixam de caber na pagina */
+}
+
+
+.bg-text {
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+    color: white;
+    font-weight: bold;
+    border: 1px solid #f1f1f1;
+    position: relative;
+    margin-top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+
+.bg-btn {
+    color: white;
+    font-weight: bold;
+    position: relative;
+    margin-top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+
+

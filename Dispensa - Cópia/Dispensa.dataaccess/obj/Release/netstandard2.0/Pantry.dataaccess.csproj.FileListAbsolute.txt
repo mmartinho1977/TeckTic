@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.dataaccess\bin\Release\netstandard2.0\Pantry.dataaccess.deps.json
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.dataaccess\bin\Release\netstandard2.0\Pantry.dataaccess.dll
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.dataaccess\bin\Release\netstandard2.0\Pantry.dataaccess.pdb
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.dataaccess\bin\Release\netstandard2.0\Pantry.entities.dll
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.dataaccess\bin\Release\netstandard2.0\Pantry.entities.pdb
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.dataaccess\obj\Release\netstandard2.0\Pantry.dataaccess.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.dataaccess\obj\Release\netstandard2.0\Pantry.dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.dataaccess\obj\Release\netstandard2.0\Pantry.dataaccess.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.dataaccess\obj\Release\netstandard2.0\Pantry.dataaccess.AssemblyInfo.cs
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.dataaccess\obj\Release\netstandard2.0\Pantry.dataaccess.csproj.CopyComplete
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.dataaccess\obj\Release\netstandard2.0\Pantry.dataaccess.dll
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.dataaccess\obj\Release\netstandard2.0\Pantry.dataaccess.pdb

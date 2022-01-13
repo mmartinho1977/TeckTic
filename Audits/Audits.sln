@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audits", "Audits\Audits.csproj", "{7F1BB177-D632-4F3C-A719-1E2A9CD88B93}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Audits.database", "Audits.database\Audits.database.sqlproj", "{E97B2AC3-4500-40D3-98EC-2F5120BB54AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F1BB177-D632-4F3C-A719-1E2A9CD88B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1BB177-D632-4F3C-A719-1E2A9CD88B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1BB177-D632-4F3C-A719-1E2A9CD88B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1BB177-D632-4F3C-A719-1E2A9CD88B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97B2AC3-4500-40D3-98EC-2F5120BB54AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97B2AC3-4500-40D3-98EC-2F5120BB54AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97B2AC3-4500-40D3-98EC-2F5120BB54AE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E97B2AC3-4500-40D3-98EC-2F5120BB54AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97B2AC3-4500-40D3-98EC-2F5120BB54AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97B2AC3-4500-40D3-98EC-2F5120BB54AE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF09D146-B20F-40E9-A74A-D88049954FDD}
+	EndGlobalSection
+EndGlobal

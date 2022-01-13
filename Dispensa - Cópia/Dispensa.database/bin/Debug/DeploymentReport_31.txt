@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Produto]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The type for column Preco in table [dbo].[Produto] is currently  DECIMAL (18) NOT NULL but is being changed to  DECIMAL
+         (18, 2) NOT NULL. Data loss could occur.
+
+** User actions
+     Table rebuild
+       [dbo].[Produto] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_Produto_Categoria] (Foreign Key)
+     Create
+       [dbo].[FK_Produto_Categoria] (Foreign Key)
+
+The type for column Preco in table [dbo].[Produto] is currently  DECIMAL (18) NOT NULL but is being changed to  DECIMAL (18, 2) NOT NULL. Data loss could occur.
+

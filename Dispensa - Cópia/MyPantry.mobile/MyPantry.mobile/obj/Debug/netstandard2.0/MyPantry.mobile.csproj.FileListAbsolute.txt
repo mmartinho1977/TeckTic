@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Dispensa - Cópia\MyPantry.mobile\MyPantry.mobile\bin\Debug\netstandard2.0\MyPantry.mobile.deps.json
+C:\Users\user\source\repos\Dispensa - Cópia\MyPantry.mobile\MyPantry.mobile\bin\Debug\netstandard2.0\MyPantry.mobile.dll
+C:\Users\user\source\repos\Dispensa - Cópia\MyPantry.mobile\MyPantry.mobile\bin\Debug\netstandard2.0\ref\MyPantry.mobile.dll
+C:\Users\user\source\repos\Dispensa - Cópia\MyPantry.mobile\MyPantry.mobile\bin\Debug\netstandard2.0\MyPantry.mobile.pdb
+C:\Users\user\source\repos\Dispensa - Cópia\MyPantry.mobile\MyPantry.mobile\obj\Debug\netstandard2.0\MyPantry.mobile.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Dispensa - Cópia\MyPantry.mobile\MyPantry.mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\Dispensa - Cópia\MyPantry.mobile\MyPantry.mobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\Dispensa - Cópia\MyPantry.mobile\MyPantry.mobile\obj\Debug\netstandard2.0\MyPantry.mobile.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dispensa - Cópia\MyPantry.mobile\MyPantry.mobile\obj\Debug\netstandard2.0\MyPantry.mobile.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Dispensa - Cópia\MyPantry.mobile\MyPantry.mobile\obj\Debug\netstandard2.0\MyPantry.mobile.AssemblyInfo.cs
+C:\Users\user\source\repos\Dispensa - Cópia\MyPantry.mobile\MyPantry.mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\Dispensa - Cópia\MyPantry.mobile\MyPantry.mobile\obj\Debug\netstandard2.0\MyPantry.mobile.dll
+C:\Users\user\source\repos\Dispensa - Cópia\MyPantry.mobile\MyPantry.mobile\obj\Debug\netstandard2.0\ref\MyPantry.mobile.dll
+C:\Users\user\source\repos\Dispensa - Cópia\MyPantry.mobile\MyPantry.mobile\obj\Debug\netstandard2.0\MyPantry.mobile.pdb

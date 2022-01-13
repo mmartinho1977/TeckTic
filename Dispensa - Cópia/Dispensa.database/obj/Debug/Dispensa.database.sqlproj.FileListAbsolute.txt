@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Dispensa\Dispensa.database\bin\Debug\Dispensa.database.dacpac
+C:\Users\user\source\repos\Dispensa\Dispensa.database\bin\Debug\Dispensa.database.dll
+C:\Users\user\source\repos\Dispensa\Dispensa.database\bin\Debug\Dispensa.database.pdb
+C:\Users\user\source\repos\Dispensa\Dispensa.database\obj\Debug\Dispensa.database.sqlprojAssemblyReference.cache
+C:\Users\user\source\repos\Dispensa\Dispensa.database\obj\Debug\Dispensa.database.dll
+C:\Users\user\source\repos\Dispensa\Dispensa.database\obj\Debug\Dispensa.database.pdb
+C:\Users\user\source\repos\Dispensa\Dispensa.database\obj\Debug\Model.xml
+C:\Users\user\source\repos\Dispensa\Dispensa.database\obj\Debug\refactor.xml
+C:\Users\user\source\repos\Dispensa\Dispensa.database\obj\Debug\postdeploy.sql
+C:\Users\user\source\repos\Dispensa\Dispensa.database\obj\Debug\predeploy.sql

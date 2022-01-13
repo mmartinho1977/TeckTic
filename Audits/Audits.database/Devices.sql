@@ -1,0 +1,25 @@
+﻿CREATE TABLE [dbo].[Devices]
+(
+	[Id] INT NOT NULL IDENTITY(1, 1) PRIMARY KEY,
+	[Code] NVARCHAR(10) NOT NULL,
+	[NetBios] NVARCHAR(30) NOT NULL,
+	[Functionality] NVARCHAR(100) NOT NULL,
+	[Type] NVARCHAR(20) NOT NULL,
+	[Brand] NVARCHAR(50) NOT NULL,
+	[Model] NVARCHAR(50) NOT NULL,
+	[Firmware] NVARCHAR(30) NOT NULL,
+	[Cpu] NVARCHAR(254) NOT NULL,
+	[SerialNumber] NVARCHAR(30) NOT NULL,
+	[MemorySize] INT NOT NULL,
+	[OperationSystem] NVARCHAR(50) NOT NULL,
+	[OperationSystemVersion] NVARCHAR(100) NOT NULL,
+	[OperationSystemKey] NVARCHAR(254) NOT NULL,
+	[IpAddress] NVARCHAR(10) NOT NULL,
+	[DhcpEnable] BIT NOT NULL,
+	[MacAddress] NVARCHAR(50) NOT NULL,
+	[DateTime] DATETIME NOT NULL, 
+    [Active] BIT NOT NULL, 
+    [CreationDate] SMALLDATETIME NOT NULL, 
+    [UpdateDate] SMALLDATETIME NOT NULL, 
+    CONSTRAINT [CK_Devices_Code] UNIQUE (Code)
+)

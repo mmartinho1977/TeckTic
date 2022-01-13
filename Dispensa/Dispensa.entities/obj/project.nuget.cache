@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "efLuLj18+BKwilu53UubaTDFwJBvNjxitb1k9jocfgJ+0xP6VEWztv2/JkjszH7MQqa8I3XoV46hw6vGaixILg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\desenvolvimento\\Dispensa\\Dispensa.entities\\Pantry.entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.database\bin\Release\Pantry.database.dacpac
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.database\bin\Release\Dispensa.database.dll
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.database\bin\Release\Dispensa.database.pdb
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.database\obj\Release\Dispensa.database.dll
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.database\obj\Release\Dispensa.database.pdb
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.database\obj\Release\Model.xml
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.database\obj\Release\refactor.xml
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.database\obj\Release\postdeploy.sql
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.database\obj\Release\predeploy.sql

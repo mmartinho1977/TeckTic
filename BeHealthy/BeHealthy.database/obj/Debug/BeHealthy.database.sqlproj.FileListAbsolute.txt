@@ -1,0 +1,16 @@
+C:\Users\caraf\Documents\BeHealthy\BeHealthy.database\bin\Debug\BeHealthy.database.dacpac
+C:\Users\caraf\Documents\BeHealthy\BeHealthy.database\bin\Debug\BeHealthy.database.dll
+C:\Users\caraf\Documents\BeHealthy\BeHealthy.database\bin\Debug\BeHealthy.database.pdb
+C:\Users\caraf\Documents\BeHealthy\BeHealthy.database\obj\Debug\BeHealthy.database.sqlprojAssemblyReference.cache
+C:\Users\caraf\Documents\BeHealthy\BeHealthy.database\obj\Debug\Model.xml
+C:\Users\caraf\Documents\BeHealthy\BeHealthy.database\obj\Debug\refactor.xml
+C:\Users\caraf\Documents\BeHealthy\BeHealthy.database\obj\Debug\postdeploy.sql
+C:\Users\caraf\Documents\BeHealthy\BeHealthy.database\obj\Debug\predeploy.sql
+C:\Users\caraf\Documents\BeHealthy\BeHealthy.database\obj\Debug\BeHealthy.database.dll
+C:\Users\caraf\Documents\BeHealthy\BeHealthy.database\obj\Debug\BeHealthy.database.pdb
+C:\Users\user\Documents\BeHealthy\BeHealthy\BeHealthy.database\bin\Debug\BeHealthy.database.dacpac
+C:\Users\user\Documents\BeHealthy\BeHealthy\BeHealthy.database\bin\Debug\BeHealthy.database.dll
+C:\Users\user\Documents\BeHealthy\BeHealthy\BeHealthy.database\bin\Debug\BeHealthy.database.pdb
+C:\Users\user\Documents\BeHealthy\BeHealthy\BeHealthy.database\obj\Debug\BeHealthy.database.sqlprojAssemblyReference.cache
+C:\Users\user\Documents\BeHealthy\BeHealthy\BeHealthy.database\obj\Debug\BeHealthy.database.dll
+C:\Users\user\Documents\BeHealthy\BeHealthy\BeHealthy.database\obj\Debug\BeHealthy.database.pdb

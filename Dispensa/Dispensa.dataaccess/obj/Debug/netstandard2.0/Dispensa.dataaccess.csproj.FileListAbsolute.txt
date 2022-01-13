@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Dispensa\Dispensa.dataaccess\obj\Debug\netstandard2.0\Dispensa.dataaccess.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Dispensa\Dispensa.dataaccess\obj\Debug\netstandard2.0\Dispensa.dataaccess.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Dispensa\Dispensa.dataaccess\obj\Debug\netstandard2.0\Dispensa.dataaccess.AssemblyInfo.cs
+C:\Users\user\source\repos\Dispensa\Dispensa.dataaccess\bin\Debug\netstandard2.0\Dispensa.dataaccess.deps.json
+C:\Users\user\source\repos\Dispensa\Dispensa.dataaccess\bin\Debug\netstandard2.0\Dispensa.dataaccess.dll
+C:\Users\user\source\repos\Dispensa\Dispensa.dataaccess\bin\Debug\netstandard2.0\Dispensa.entities.dll
+C:\Users\user\source\repos\Dispensa\Dispensa.dataaccess\bin\Debug\netstandard2.0\Dispensa.entities.pdb
+C:\Users\user\source\repos\Dispensa\Dispensa.dataaccess\obj\Debug\netstandard2.0\Dispensa.dataaccess.csproj.CopyComplete
+C:\Users\user\source\repos\Dispensa\Dispensa.dataaccess\bin\Debug\netstandard2.0\Dispensa.dataaccess.pdb
+C:\Users\user\source\repos\Dispensa\Dispensa.dataaccess\obj\Debug\netstandard2.0\Dispensa.dataaccess.dll
+C:\Users\user\source\repos\Dispensa\Dispensa.dataaccess\obj\Debug\netstandard2.0\Dispensa.dataaccess.pdb

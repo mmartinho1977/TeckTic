@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Dispensa\Dispensa.entities\bin\Debug\netstandard2.0\Dispensa.entities.deps.json
+C:\Users\user\source\repos\Dispensa\Dispensa.entities\bin\Debug\netstandard2.0\Dispensa.entities.dll
+C:\Users\user\source\repos\Dispensa\Dispensa.entities\bin\Debug\netstandard2.0\Dispensa.entities.pdb
+C:\Users\user\source\repos\Dispensa\Dispensa.entities\obj\Debug\netstandard2.0\Dispensa.entities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Dispensa\Dispensa.entities\obj\Debug\netstandard2.0\Dispensa.entities.AssemblyInfo.cs
+C:\Users\user\source\repos\Dispensa\Dispensa.entities\obj\Debug\netstandard2.0\Dispensa.entities.dll
+C:\Users\user\source\repos\Dispensa\Dispensa.entities\obj\Debug\netstandard2.0\Dispensa.entities.pdb
+C:\Users\user\source\repos\Dispensa\Dispensa.entities\obj\Debug\netstandard2.0\Dispensa.entities.csprojAssemblyReference.cache

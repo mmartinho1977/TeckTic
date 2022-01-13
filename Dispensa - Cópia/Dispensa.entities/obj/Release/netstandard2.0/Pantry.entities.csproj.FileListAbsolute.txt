@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.entities\bin\Release\netstandard2.0\Pantry.entities.deps.json
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.entities\bin\Release\netstandard2.0\Pantry.entities.dll
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.entities\bin\Release\netstandard2.0\Pantry.entities.pdb
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.entities\obj\Release\netstandard2.0\Pantry.entities.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.entities\obj\Release\netstandard2.0\Pantry.entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.entities\obj\Release\netstandard2.0\Pantry.entities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.entities\obj\Release\netstandard2.0\Pantry.entities.AssemblyInfo.cs
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.entities\obj\Release\netstandard2.0\Pantry.entities.dll
+C:\Users\user\source\repos\Dispensa - Cópia\Dispensa.entities\obj\Release\netstandard2.0\Pantry.entities.pdb

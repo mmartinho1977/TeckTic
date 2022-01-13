@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Pantry.database", "Dispensa.database\Pantry.database.sqlproj", "{055BAD82-0500-4C7D-B50C-EEC299BFCD8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pantry.ui", "Dispensa.ui\Pantry.ui.csproj", "{AA785B8C-20F3-49F5-ABF7-EF0C77E380A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pantry.dataaccess", "Dispensa.dataaccess\Pantry.dataaccess.csproj", "{55E9D51E-7F05-43A0-B2C5-22B46A1AB23C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pantry.entities", "Dispensa.entities\Pantry.entities.csproj", "{B0D54F1F-13A1-4757-AC09-C950427C742C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pantry.web", "Pantry.web\Pantry.web.csproj", "{463310FF-A662-4C7C-B50D-CA3FD37BD199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pantry.core", "Pantry.core\Pantry.core.csproj", "{9A7B63CF-4BAC-481A-989B-15AF66C4293A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{055BAD82-0500-4C7D-B50C-EEC299BFCD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055BAD82-0500-4C7D-B50C-EEC299BFCD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055BAD82-0500-4C7D-B50C-EEC299BFCD8D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{055BAD82-0500-4C7D-B50C-EEC299BFCD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055BAD82-0500-4C7D-B50C-EEC299BFCD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055BAD82-0500-4C7D-B50C-EEC299BFCD8D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AA785B8C-20F3-49F5-ABF7-EF0C77E380A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA785B8C-20F3-49F5-ABF7-EF0C77E380A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA785B8C-20F3-49F5-ABF7-EF0C77E380A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA785B8C-20F3-49F5-ABF7-EF0C77E380A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E9D51E-7F05-43A0-B2C5-22B46A1AB23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E9D51E-7F05-43A0-B2C5-22B46A1AB23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E9D51E-7F05-43A0-B2C5-22B46A1AB23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E9D51E-7F05-43A0-B2C5-22B46A1AB23C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D54F1F-13A1-4757-AC09-C950427C742C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D54F1F-13A1-4757-AC09-C950427C742C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D54F1F-13A1-4757-AC09-C950427C742C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D54F1F-13A1-4757-AC09-C950427C742C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463310FF-A662-4C7C-B50D-CA3FD37BD199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463310FF-A662-4C7C-B50D-CA3FD37BD199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463310FF-A662-4C7C-B50D-CA3FD37BD199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463310FF-A662-4C7C-B50D-CA3FD37BD199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A7B63CF-4BAC-481A-989B-15AF66C4293A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7B63CF-4BAC-481A-989B-15AF66C4293A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7B63CF-4BAC-481A-989B-15AF66C4293A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7B63CF-4BAC-481A-989B-15AF66C4293A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECBAB6C4-3959-45DE-B451-D4264B0DA29F}
+	EndGlobalSection
+EndGlobal

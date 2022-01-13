@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Audits\Audits\bin\Debug\Audits.exe.config
+C:\Users\user\source\repos\Audits\Audits\bin\Debug\Audits.exe
+C:\Users\user\source\repos\Audits\Audits\bin\Debug\Audits.pdb
+C:\Users\user\source\repos\Audits\Audits\obj\Debug\Audits.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Audits\Audits\obj\Debug\Audits.Form1.resources
+C:\Users\user\source\repos\Audits\Audits\obj\Debug\Audits.Properties.Resources.resources
+C:\Users\user\source\repos\Audits\Audits\obj\Debug\Audits.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Audits\Audits\obj\Debug\Audits.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Audits\Audits\obj\Debug\Audits.exe
+C:\Users\user\source\repos\Audits\Audits\obj\Debug\Audits.pdb

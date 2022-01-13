@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Audits\Audits.database\bin\Debug\Audits.database.dacpac
+C:\Users\user\source\repos\Audits\Audits.database\bin\Debug\Audits.database.dll
+C:\Users\user\source\repos\Audits\Audits.database\bin\Debug\Audits.database.pdb
+C:\Users\user\source\repos\Audits\Audits.database\obj\Debug\Audits.database.sqlprojAssemblyReference.cache
+C:\Users\user\source\repos\Audits\Audits.database\obj\Debug\Audits.database.dll
+C:\Users\user\source\repos\Audits\Audits.database\obj\Debug\Audits.database.pdb
+C:\Users\user\source\repos\Audits\Audits.database\obj\Debug\Model.xml
+C:\Users\user\source\repos\Audits\Audits.database\obj\Debug\refactor.xml
+C:\Users\user\source\repos\Audits\Audits.database\obj\Debug\postdeploy.sql
+C:\Users\user\source\repos\Audits\Audits.database\obj\Debug\predeploy.sql

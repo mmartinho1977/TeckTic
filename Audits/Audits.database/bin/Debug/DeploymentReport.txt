@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Applications] (Table)
+       [dbo].[Devices] (Table)
+       [dbo].[Drives] (Table)
+       [dbo].[NetworkShares] (Table)
+       [dbo].[Users] (Table)
+       [dbo].[FK_Applications_Devices] (Foreign Key)
+       [dbo].[FK_Drives_Devices] (Foreign Key)
+       [dbo].[FK_NetworkShares_Devices] (Foreign Key)
+       [dbo].[FK_NetworkShares_Users] (Foreign Key)
+
+** Supporting actions
